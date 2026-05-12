@@ -1,2 +1,0 @@
-# Bibliotecas necessárias para o projeto de monitoramento de sinais vitais
-requests>=2.31.0
