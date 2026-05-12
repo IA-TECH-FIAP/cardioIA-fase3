@@ -1,4 +1,6 @@
-# Documentação: Sistema Cardio IA 🩺
+# Ir Além 2 — IA em Séries Temporais de Saúde
+CardioIA — Fase 3 | FIAP — Inteligência Artificial 
+Documentação: Sistema Cardio IA 🩺
 
 Este repositório contém a implementação de um sistema de monitoramento de sinais vitais automatizado, integrando comunicação **REST API**, lógica de detecção de anomalias clínicas e **RPA para alertas via e-mail**.
 
