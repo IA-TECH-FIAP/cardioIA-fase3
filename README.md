@@ -19,7 +19,7 @@ Comparação entre **Regressão Logística** e **Rede Neuromórfica FitzHugh–N
 
 ## Demonstração em Vídeo
 
-▶️ **Link:** `<INSERIR LINK DO YOUTUBE AQUI>`
+▶️ **Link:** `(https://youtu.be/JqlmVhJlmGA)`
 
 > Vídeo "não listado" no YouTube com até 4 minutos apresentando objetivo, metodologia, resultados e análise crítica.
 
